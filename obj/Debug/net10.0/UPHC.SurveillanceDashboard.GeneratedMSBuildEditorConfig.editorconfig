@@ -78,54 +78,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/UPHC.SurveillanceDashboard_Updated-main/UPHC.SurveillanceDashboard_Updated-main/Components/App.razor]
-build_metadata.AdditionalFiles.TargetPath = VVBIQy5TdXJ2ZWlsbGFuY2VEYXNoYm9hcmRfVXBkYXRlZC1tYWluXENvbXBvbmVudHNcQXBwLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/UPHC.SurveillanceDashboard_Updated-main/UPHC.SurveillanceDashboard_Updated-main/Components/Pages/CaseDetails.razor]
-build_metadata.AdditionalFiles.TargetPath = VVBIQy5TdXJ2ZWlsbGFuY2VEYXNoYm9hcmRfVXBkYXRlZC1tYWluXENvbXBvbmVudHNcUGFnZXNcQ2FzZURldGFpbHMucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/UPHC.SurveillanceDashboard_Updated-main/UPHC.SurveillanceDashboard_Updated-main/Components/Pages/CaseEdit.razor]
-build_metadata.AdditionalFiles.TargetPath = VVBIQy5TdXJ2ZWlsbGFuY2VEYXNoYm9hcmRfVXBkYXRlZC1tYWluXENvbXBvbmVudHNcUGFnZXNcQ2FzZUVkaXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/UPHC.SurveillanceDashboard_Updated-main/UPHC.SurveillanceDashboard_Updated-main/Components/Pages/Dashboard.razor]
-build_metadata.AdditionalFiles.TargetPath = VVBIQy5TdXJ2ZWlsbGFuY2VEYXNoYm9hcmRfVXBkYXRlZC1tYWluXENvbXBvbmVudHNcUGFnZXNcRGFzaGJvYXJkLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/UPHC.SurveillanceDashboard_Updated-main/UPHC.SurveillanceDashboard_Updated-main/Components/Pages/Error.razor]
-build_metadata.AdditionalFiles.TargetPath = VVBIQy5TdXJ2ZWlsbGFuY2VEYXNoYm9hcmRfVXBkYXRlZC1tYWluXENvbXBvbmVudHNcUGFnZXNcRXJyb3IucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/UPHC.SurveillanceDashboard_Updated-main/UPHC.SurveillanceDashboard_Updated-main/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = VVBIQy5TdXJ2ZWlsbGFuY2VEYXNoYm9hcmRfVXBkYXRlZC1tYWluXENvbXBvbmVudHNcUGFnZXNcSG9tZS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/UPHC.SurveillanceDashboard_Updated-main/UPHC.SurveillanceDashboard_Updated-main/Components/Pages/NotFound.razor]
-build_metadata.AdditionalFiles.TargetPath = VVBIQy5TdXJ2ZWlsbGFuY2VEYXNoYm9hcmRfVXBkYXRlZC1tYWluXENvbXBvbmVudHNcUGFnZXNcTm90Rm91bmQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/UPHC.SurveillanceDashboard_Updated-main/UPHC.SurveillanceDashboard_Updated-main/Components/Pages/PatientEntry.razor]
-build_metadata.AdditionalFiles.TargetPath = VVBIQy5TdXJ2ZWlsbGFuY2VEYXNoYm9hcmRfVXBkYXRlZC1tYWluXENvbXBvbmVudHNcUGFnZXNcUGF0aWVudEVudHJ5LnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/UPHC.SurveillanceDashboard_Updated-main/UPHC.SurveillanceDashboard_Updated-main/Components/Pages/RedirectToLogin.razor]
-build_metadata.AdditionalFiles.TargetPath = VVBIQy5TdXJ2ZWlsbGFuY2VEYXNoYm9hcmRfVXBkYXRlZC1tYWluXENvbXBvbmVudHNcUGFnZXNcUmVkaXJlY3RUb0xvZ2luLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/UPHC.SurveillanceDashboard_Updated-main/UPHC.SurveillanceDashboard_Updated-main/Components/Pages/UPHCDetails.razor]
-build_metadata.AdditionalFiles.TargetPath = VVBIQy5TdXJ2ZWlsbGFuY2VEYXNoYm9hcmRfVXBkYXRlZC1tYWluXENvbXBvbmVudHNcUGFnZXNcVVBIQ0RldGFpbHMucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/UPHC.SurveillanceDashboard_Updated-main/UPHC.SurveillanceDashboard_Updated-main/Components/Routes.razor]
-build_metadata.AdditionalFiles.TargetPath = VVBIQy5TdXJ2ZWlsbGFuY2VEYXNoYm9hcmRfVXBkYXRlZC1tYWluXENvbXBvbmVudHNcUm91dGVzLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/UPHC.SurveillanceDashboard_Updated-main/UPHC.SurveillanceDashboard_Updated-main/Components/_Imports.razor]
-build_metadata.AdditionalFiles.TargetPath = VVBIQy5TdXJ2ZWlsbGFuY2VEYXNoYm9hcmRfVXBkYXRlZC1tYWluXENvbXBvbmVudHNcX0ltcG9ydHMucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [E:/UPHC.SurveillanceDashboard_Updated-main/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-vyioqeliri
@@ -137,15 +89,3 @@ build_metadata.AdditionalFiles.CssScope = b-5bn3k93uah
 [E:/UPHC.SurveillanceDashboard_Updated-main/Components/Layout/ReconnectModal.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcUmVjb25uZWN0TW9kYWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ituouopjpk
-
-[E:/UPHC.SurveillanceDashboard_Updated-main/UPHC.SurveillanceDashboard_Updated-main/Components/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = VVBIQy5TdXJ2ZWlsbGFuY2VEYXNoYm9hcmRfVXBkYXRlZC1tYWluXENvbXBvbmVudHNcTGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-9e615npmss
-
-[E:/UPHC.SurveillanceDashboard_Updated-main/UPHC.SurveillanceDashboard_Updated-main/Components/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = VVBIQy5TdXJ2ZWlsbGFuY2VEYXNoYm9hcmRfVXBkYXRlZC1tYWluXENvbXBvbmVudHNcTGF5b3V0XE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-u0eqv5msd8
-
-[E:/UPHC.SurveillanceDashboard_Updated-main/UPHC.SurveillanceDashboard_Updated-main/Components/Layout/ReconnectModal.razor]
-build_metadata.AdditionalFiles.TargetPath = VVBIQy5TdXJ2ZWlsbGFuY2VEYXNoYm9hcmRfVXBkYXRlZC1tYWluXENvbXBvbmVudHNcTGF5b3V0XFJlY29ubmVjdE1vZGFsLnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-56cen0zyog

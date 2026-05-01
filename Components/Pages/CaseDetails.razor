@@ -23,7 +23,7 @@ else
         <p><b>Symptoms:</b> @caseRecord.Symptoms</p>
         <p><b>Disease:</b> @caseRecord.DiseaseName</p>
         <p><b>Date:</b> @caseRecord.CreatedDate.ToShortDateString()</p>
-        <p><b>UPHC:</b> @caseRecord.UPHC?.Name</p>
+        <p><b>UPHC:</b> @caseRecord.Facility?.FacilityName</p>
         <p><b>Phone:</b> @caseRecord.Phone</p>
         <p><b>Type:</b> @(caseRecord.IsCommunicable ? "Communicable" : "Non-Communicable")</p>
         <p><b>Status:</b> @caseRecord.Status</p>
@@ -49,7 +49,7 @@ else
         using var db = DbFactory.CreateDbContext();
 
         caseRecord = await db.CaseRecords
-            .Include(c => c.UPHC)
+            .Include(c => c.Facility)
             .FirstOrDefaultAsync(c => c.Id == id);
     }
 

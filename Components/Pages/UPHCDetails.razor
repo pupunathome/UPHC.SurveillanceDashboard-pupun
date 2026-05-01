@@ -7,7 +7,7 @@
 @inject IDbContextFactory<AppDbContext> DbFactory
 @inject NavigationManager Navigation
 
-<h2 class="mb-3">@uphcName (@location)</h2>
+<h2 class="mb-3">@FacilityName (@FacilityAddress)</h2>
 
 @if (cases == null)
 {
@@ -58,8 +58,8 @@ else
     [Parameter] public int id { get; set; }
 
     List<CaseRecord> cases;
-    string uphcName = "";
-    string location = "";
+    string FacilityName = "";
+    string FacilityAddress = "";
 
     int currentPage = 1;
     int pageSize = 10;
@@ -68,11 +68,11 @@ else
     {
         using var db = DbFactory.CreateDbContext();
 
-        var uphc = await db.UPHCs.FindAsync(id);
-        if (uphc != null)
+        var facility = await db.Facilities.FindAsync(id);
+        if (facility != null)
         {
-            uphcName = uphc.Name;
-            location = uphc.Location;
+           FacilityName = facility.FacilityName;
+            FacilityAddress = facility.FacilityAddress;
         }
 
         await LoadCases();
@@ -83,7 +83,7 @@ else
         using var db = DbFactory.CreateDbContext();
 
         cases = await db.CaseRecords
-            .Where(c => c.UPHCId == id)
+            .Where(c => c.FacilityId == id)
             .OrderByDescending(c => c.CreatedDate)
             .Skip((currentPage - 1) * pageSize)
             .Take(pageSize)
