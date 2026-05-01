@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UPHC.SurveillanceDashboard_Updated-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|e:\\uphc.surveillancedashboard_updated-main\\uphc.surveillancedashboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|solutionrelative:uphc.surveillancedashboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|e:\\uphc.surveillancedashboard_updated-main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|e:\\uphc.surveillancedashboard_updated-main\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|solutionrelative:services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|e:\\uphc.surveillancedashboard_updated-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|e:\\uphc.surveillancedashboard_updated-main\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|e:\\uphc.surveillancedashboard_updated-main\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|e:\\uphc.surveillancedashboard_updated-main\\components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|solutionrelative:components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|e:\\uphc.surveillancedashboard_updated-main\\components\\pages\\patiententry.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|solutionrelative:components\\pages\\patiententry.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|e:\\uphc.surveillancedashboard_updated-main\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|e:\\uphc.surveillancedashboard_updated-main\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8622DA4A-E3D6-DCC6-45C4-A8EA0E7BBCE1}|UPHC.SurveillanceDashboard.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UPHC.SurveillanceDashboard",
+              "DocumentMoniker": "E:\\UPHC.SurveillanceDashboard_Updated-main\\UPHC.SurveillanceDashboard.csproj",
+              "RelativeDocumentMoniker": "UPHC.SurveillanceDashboard.csproj",
+              "ToolTip": "E:\\UPHC.SurveillanceDashboard_Updated-main\\UPHC.SurveillanceDashboard.csproj",
+              "RelativeToolTip": "UPHC.SurveillanceDashboard.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-01T14:47:57.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\UPHC.SurveillanceDashboard_Updated-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\UPHC.SurveillanceDashboard_Updated-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T11:08:27.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientEntry.razor",
+              "DocumentMoniker": "E:\\UPHC.SurveillanceDashboard_Updated-main\\Components\\Pages\\PatientEntry.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\PatientEntry.razor",
+              "ToolTip": "E:\\UPHC.SurveillanceDashboard_Updated-main\\Components\\Pages\\PatientEntry.razor",
+              "RelativeToolTip": "Components\\Pages\\PatientEntry.razor",
+              "ViewState": "AgIAALgAAAAAAAAAAIBJwBwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T10:34:35.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "E:\\UPHC.SurveillanceDashboard_Updated-main\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationService.cs",
+              "ToolTip": "E:\\UPHC.SurveillanceDashboard_Updated-main\\Services\\NotificationService.cs",
+              "RelativeToolTip": "Services\\NotificationService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T10:30:51.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.js",
+              "DocumentMoniker": "E:\\UPHC.SurveillanceDashboard_Updated-main\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "E:\\UPHC.SurveillanceDashboard_Updated-main\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAGkBAAAAAAAAAAAkwIgBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-01T10:28:35.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.razor",
+              "DocumentMoniker": "E:\\UPHC.SurveillanceDashboard_Updated-main\\Components\\Pages\\Dashboard.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Dashboard.razor",
+              "ToolTip": "E:\\UPHC.SurveillanceDashboard_Updated-main\\Components\\Pages\\Dashboard.razor",
+              "RelativeToolTip": "Components\\Pages\\Dashboard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T10:24:08.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\UPHC.SurveillanceDashboard_Updated-main\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\UPHC.SurveillanceDashboard_Updated-main\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-01T09:50:30.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\UPHC.SurveillanceDashboard_Updated-main\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "E:\\UPHC.SurveillanceDashboard_Updated-main\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAqwEAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T09:46:29.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\UPHC.SurveillanceDashboard_Updated-main\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "E:\\UPHC.SurveillanceDashboard_Updated-main\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-30T10:13:17.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "E:\\UPHC.SurveillanceDashboard_Updated-main\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "E:\\UPHC.SurveillanceDashboard_Updated-main\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-30T09:49:25.965Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
